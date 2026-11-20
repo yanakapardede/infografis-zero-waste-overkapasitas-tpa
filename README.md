@@ -2,8 +2,6 @@
 
 Infografis tentang strategi **Zero Waste berbasis 5R** sebagai inovasi pengelolaan limbah untuk mengurangi pencemaran lingkungan akibat overkapasitas Tempat Pemrosesan Akhir (TPA) di Indonesia.
 
-![Infografis Zero Waste](images/infografis-zero-waste.jpg)
-
 ## Overview
 
 Indonesia menghadapi masalah serius dalam pengelolaan sampah: timbulan sampah tinggi, sebagian besar belum terkelola, dan kapasitas TPA terbatas. Infografis ini merangkum kondisi tersebut dalam sembilan bagian, mulai dari posisi Indonesia di ASEAN, komposisi dan pengelolaan sampah nasional, sistem TPA, dampak lingkungan, hingga proyeksi timbulan sampah, lalu menawarkan strategi **Zero Waste (5R)** sebagai solusi. Infografis ini mendukung SDGs 11 (kota berkelanjutan), 12 (konsumsi dan produksi bertanggung jawab), dan 13 (aksi iklim).
